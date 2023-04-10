@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body {
+
+    background: #DEC19E;
+    border-radius: 30px;
+}
+
+h1 {
+
+    position: absolute;
+    width: 415px;
+    height: 56px;
+    left: 844px;
+    top: 34px;
+
+    font-family: 'Gochi Hand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #000000;
+
+}
+
+.N1 {
+
+    position: absolute;
+    width: 74px;
+    height: 29px;
+    left: 485px;
+    top: 112px;
+    
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 29px;
+
+    
+    
+    color: #000000;
+    
+}
+
+.N2 {
+
+    position: absolute;
+    width: 950px;
+    height: 100px;
+    left: 482px;
+    top: 154px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    
+}
+
+.SN1 {
+
+    position: absolute;
+    width: 154px;
+    height: 29px;
+    left: 479px;
+    top: 279px;
+    
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 29px;
+    
+    
+    
+    color: #000000;
+    
+
+}
+
+.SN2 {
+
+    position: absolute;
+    width: 950px;
+    height: 100px;
+    left: 479px;
+    top: 321px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+
+.l1 {
+
+    position: absolute;
+    width: 142px;
+    height: 26px;
+    left: 485px;
+    top: 446px;
+    
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+
+.c1 {
+
+    position: absolute;
+    width: 950px;
+    height: 100px;
+    left: 482px;
+    top: 485px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.s2 {
+
+    position: absolute;
+    width: 142px;
+    height: 25px;
+    left: 485px;
+    top: 616px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 29px;
+
+    color: #000000;
+    
+}
+
+.c2 {
+
+    position: absolute;
+    width: 950px;
+    height: 100px;
+    left: 479px;
+    top: 651px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.x2 {
+    font-family: 'Bebas Neue';
+    font-size: 35px;
+    position: absolute;
+    width: 465px;
+    height: 146px;
+    left: 727px;
+    top: 800px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+
+}
+
+    
