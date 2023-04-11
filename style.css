@@ -54,6 +54,7 @@ h1 {
     left: 482px;
     top: 154px;
     
+    font-size: 35px;
     background: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -89,6 +90,7 @@ h1 {
     left: 479px;
     top: 321px;
     
+    font-size: 35px;
     background: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -121,6 +123,7 @@ h1 {
     left: 482px;
     top: 485px;
     
+    font-size: 35px;
     background: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -152,6 +155,7 @@ h1 {
     left: 479px;
     top: 651px;
 
+    font-size: 35px;
     background: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
@@ -159,7 +163,7 @@ h1 {
 
 .x2 {
     font-family: 'Bebas Neue';
-    font-size: 35px;
+    font-size: 50px;
     position: absolute;
     width: 465px;
     height: 146px;
